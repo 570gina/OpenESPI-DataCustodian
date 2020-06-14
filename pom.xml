@@ -185,18 +185,18 @@
     </repositories>
 
     <dependencies>
-        <!--<dependency>
+        <dependency>
             <groupId>org.energyos</groupId>
             <artifactId>Common</artifactId>
             <version>${openespi-common.version}</version>
-        </dependency>-->
-        <dependency>
+        </dependency>
+        <!--<dependency>
             <groupId>org.energyos</groupId>
             <artifactId>Common</artifactId>
             <version>${openespi-common.version}</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/Common-1.3-SNAPSHOT.jar</systemPath>
-        </dependency>
+        </dependency>-->
 
 <!--         <dependency> -->
 <!--             <groupId>org.springframework.security</groupId> -->
